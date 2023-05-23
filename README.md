@@ -22,15 +22,15 @@ You can check it out [react-native-postpay-widget-example](https://github.com/po
 
 ## Getting started
 
-`$ npm install react-native-postpay-widget --save`
+`$ npm install postpay-widget-react-native --save`
 
 - OR
 
-`$ yarn add react-native-postpay-widget`
+`$ yarn add postpay-widget-react-native`
 
 ## Usage
 ```javascript
-import { PostpayWidget } from 'react-native-postpay-widget';
+import { PostpayWidget } from 'postpay-widget-react-native';
 
 <PostpayWidget
     merchantId="id_c56705f1a9304e8c8a16e1da98ec8734"
