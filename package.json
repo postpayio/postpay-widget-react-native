@@ -1,5 +1,5 @@
 {
-  "name": "postpay-widget-react-native",
+  "name": "@dev-postpay/widget-react-native",
   "version": "0.1.19",
   "description": "React Native Postpay Widget",
   "main": "./src/index.js",

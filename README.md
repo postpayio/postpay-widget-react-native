@@ -1,7 +1,7 @@
 
-[![npm version](https://badge.fury.io/js/react-native-postpay-widget.svg)](https://badge.fury.io/js/react-native-postpay-widget) ![](https://img.shields.io/github/issues/postpayio/react-native-postpay-widget.svg) ![](https://img.shields.io/github/stars/postpayio/react-native-postpay-widget.svg) ![](https://img.shields.io/github/license/postpayio/react-native-postpay-widget.svg) [![npm](https://img.shields.io/npm/dm/react-native-postpay-widget.svg)](https://npmjs.com/package/react-native-postpay-widget)
+[![npm version](https://badge.fury.io/js/postpay-widget-react-native.svg)](https://badge.fury.io/js/postpay-widget-react-native) ![](https://img.shields.io/github/issues/postpayio/postpay-widget-react-native.svg) ![](https://img.shields.io/github/stars/postpayio/postpay-widget-react-native.svg) ![](https://img.shields.io/github/license/postpayio/postpay-widget-react-native.svg) [![npm](https://img.shields.io/npm/dm/postpay-widget-react-native.svg)](https://npmjs.com/package/@dev-postpay/widget-react-native)
 
-[![NPM](https://nodei.co/npm/react-native-postpay-widget.png?downloads=true&stars=true)](https://nodei.co/npm/react-native-postpay-widget/)
+[![NPM](https://nodei.co/npm/@dev-postpay/widget-react-native.png?downloads=true&stars=true)](https://nodei.co/npm/@dev-postpay/widget-react-native/)
 
 ## Descriptions
 
@@ -22,15 +22,15 @@ You can check it out [react-native-postpay-widget-example](https://github.com/po
 
 ## Getting started
 
-`$ npm install postpay-widget-react-native --save`
+`$ npm install @dev-postpay/widget-react-native --save`
 
 - OR
 
-`$ yarn add postpay-widget-react-native`
+`$ yarn add @dev-postpay/widget-react-native`
 
 ## Usage
 ```javascript
-import { PostpayWidget } from 'postpay-widget-react-native';
+import { PostpayWidget } from '@dev-postpay/widget-react-native';
 
 <PostpayWidget
     merchantId="id_c56705f1a9304e8c8a16e1da98ec8734"
