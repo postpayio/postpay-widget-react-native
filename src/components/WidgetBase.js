@@ -52,7 +52,7 @@ const WidgetBase = (props: WidgetBaseProps) => {
         if (
             (res.type === 'PostpayWidgetLoaded' &&
                 widgetType === 'payment-summary' &&
-                (!numInstalments)) ||
+                (numInstalments)) ||
             isAndroid ||
             widgetType === 'info-modal'
         ) {
